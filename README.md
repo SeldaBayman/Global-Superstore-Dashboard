@@ -82,6 +82,6 @@ This project demonstrates the power of data analytics and visualization using Po
 Feel free to explore, use, or contribute to this project. Feedback and suggestions are always welcome!
 
 Contact
-For any questions or collaboration requests, please reach out via [Your Email or LinkedIn Profile].
+For any questions or collaboration requests, please reach out via [seldabayman@gmail.com or [LinkedIn Profile](https://www.linkedin.com/in/selda-bayman-b35ba871/)].
 
 
